@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Analista%20de%20Sistemas-0B0B0F?style=for-the-badge&logoColor=A855F7" alt="Cargo" />
-  <img src="https://komarev.com/ghpvc/?username=APOSK87&style=for-the-badge&color=7C3AED&label=VISITAS" alt="Visitas" />
+   <img src="https://komarev.com/ghpvc/?username=APOSK87&label=VISITAS&color=7C3AED&style=for-the-badge" alt="Visitas" />
 </div>
 
 <div align="center">
