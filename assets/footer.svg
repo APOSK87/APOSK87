@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="rodapé">
+  <defs>
+    <linearGradient id="fline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A855F7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="fglow" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="#0B0B0F"/>
+  <rect width="1200" height="120" fill="url(#fglow)"/>
+  <rect x="0" y="10" width="1200" height="2" fill="url(#fline)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+    <text x="600" y="62" fill="#C9C9D4" font-size="16">
+      "Se eu preciso fazer isso duas vezes por mês, isso vira script."
+    </text>
+    <text x="600" y="92" fill="#6E6E80" font-size="13" letter-spacing="2">
+      ALISON ALVES DE AQUINO · ANALISTA DE SISTEMAS
+    </text>
+  </g>
+</svg>
