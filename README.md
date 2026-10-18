@@ -151,14 +151,6 @@ representantes com baixas de NF.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=APOSK87&bg_color=0B0B0F&color=C9C9D4&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=APOSK87&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/APOSK87/APOSK87/output/snake.svg" alt="Snake animation" />
 </div>
 
